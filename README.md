@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Shelby's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShelbyVH&show_icons=true&theme=transparent)
+
 <!--
 **ShelbyVH/ShelbyVH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
