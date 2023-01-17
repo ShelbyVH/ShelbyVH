@@ -2,7 +2,7 @@
 
 ![ShelbyVH's GitHub stats](https://github-readme-stats-shelbyvh.vercel.app/api?username=ShelbyVH&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats-shelbyvh.vercel.app/api/top-langs/?username=ShelbyVH)](https://github-readme-stats-shelbyvh.vercel.app)
+[![Top Langs](https://github-readme-stats-shelbyvh.vercel.app/api/top-langs/?username=ShelbyVH&langs_count=10)](https://github-readme-stats-shelbyvh.vercel.app)
 
 <!--
 **ShelbyVH/ShelbyVH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
