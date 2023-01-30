@@ -4,7 +4,7 @@
 
 [![ShelbyVH's GitHub stats](https://github-readme-stats-shelbyvh.vercel.app/api?username=ShelbyVH&show_icons=true&theme=transparent&include_all_commits=true&count_private=true)](https://github.com/shelbyvh)
 
-[![Top Langs](https://github-readme-stats-shelbyvh.vercel.app/api/top-langs/?username=shelbyvh&layout=compact&langs_count=10)](https://github.com/shelbyvh)
+[![Top Langs](https://github-readme-stats-shelbyvh.vercel.app/api/top-langs/?username=shelbyvh&layout=compact&langs_count=10&theme=transparent)](https://github.com/shelbyvh)
 
 
 <!--
